@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th-yong&layout=compact)
 
+![snake gif](https://github.com/th-yong/th-yong/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
